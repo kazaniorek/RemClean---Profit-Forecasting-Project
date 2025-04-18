@@ -37,5 +37,8 @@ Using profit forecasting, RemClean was able to:
 - `remclean_profit_forecast.ipynb` – Complete forecasting notebook.
 - `sales_data_remclean.csv` – Simulated historical revenue and costs dataset.
 
+> **Disclaimer**: The dataset used in this project is synthetically generated for demonstration purposes only.  
+> It does not contain any real customer information or confidential business data.
+
 ## Project Timeline
 - January 2023 – Present
